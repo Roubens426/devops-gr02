@@ -1,4 +1,3 @@
 # Mon propjet web
 
-## Structure
 
